@@ -32,7 +32,7 @@ Data visualization steps include:
 - Line plots for trends over time
 - Heatmaps for correlation analysis
 
-## insights and Findings
+## Insights and Findings
 #### Customer Behavior
 1. State-wise Distribution:
 - Top Buyers' State: The majority of the buyers are from Maharashtra, indicating a significant customer base in this state.
